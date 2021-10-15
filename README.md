@@ -1,2 +1,2 @@
-Google homepage mini-project for The Odin Project
-- [Live Preview](https://tsuki4.github.io/google-homepage/)
+A reproduction of the Google homepage using basic HTML and CSS
+- [Live Preview](https://brhiro.github.io/google-homepage/)
